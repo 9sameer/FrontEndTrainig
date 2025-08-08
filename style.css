@@ -1,0 +1,36 @@
+body{
+    background-color: skyblue;
+}
+
+.card{
+    background-color: white;
+    border: 1px solid;
+    text-align: center;
+    margin: 10px 80px 10px 80px;
+    padding: 10px 30px 10px 10px;
+    align-items: center;
+    /background-color: maroon;/
+}
+
+.sec{
+    text-align: center;
+}
+
+.btn{
+    background-color: green;
+    border-radius: 2px;
+}
+
+.Login{
+    background-color: white;
+    border: 1px solid;
+    text-align: center;
+    margin: 10px 80px 10px 80px;
+    padding: 10px 30px 10px 10px;
+    align-items: center;
+    
+}
+.cont2{
+     align-items: center;
+     text-align: center;
+}
