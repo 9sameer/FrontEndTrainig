@@ -33,6 +33,7 @@ fetch('schoolData.json').then(response => response.json()).then(data => {
     select.addEventListener('change', () => {
 
         const selectedKey = select.value;
+        console.log(selectedKey);
 
         if (selectedKey) {
 
